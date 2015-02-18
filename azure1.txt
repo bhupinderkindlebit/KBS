@@ -1,0 +1,3 @@
+waws-prod-dm1-001.ftp.azurewebsites.windows.net/site/wwwroot
+mwfrstage\$mwfrstage
+PN7W2WWzwrwLQuZxFqXe0e0g5LTpbdFE6wFv1ecChDqBfN8dSD2Woo3sRay7
