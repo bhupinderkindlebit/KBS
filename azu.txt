@@ -1,0 +1,4 @@
+un8j5vkgga.database.windows.net,1433
+database: worryfrAT6kRCBRf
+user: wfretirement
+password: Sv228515
